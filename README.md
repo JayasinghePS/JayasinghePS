@@ -37,6 +37,7 @@
 
 ## 🛠 Tech Stack  
 <div>
+  
 **Languages:**  
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)  
@@ -114,6 +115,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JayasinghePS&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />  
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 <p align="center">
