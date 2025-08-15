@@ -21,8 +21,9 @@
 ---
 
 ## ✨ About Me  
+<div>
 <p>
-  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
 - 💻 **Fullstack Developer** with expertise in frontend & backend  
@@ -31,7 +32,7 @@
 - ⚙️ Loves **problem-solving** & **design patterns**  
 - 🚀 Always exploring **new tech** & building cool things  
 - ⚡ Fun fact: I sometimes write cleaner code at 2 AM than at 2 PM  
-
+</div>
 ---
 
 ## 🛠 Tech Stack  
