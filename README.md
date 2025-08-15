@@ -14,6 +14,10 @@
 ---
 
 <!-- 👋 Intro with animated typing -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=JayasinghePS&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />  
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C2FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%7C+Tech+Enthusiast;Backend+%26+Frontend+Craftsman;AI+Project+Explorer;Turning+Coffee+into+Code+Since+2019" />
 </p>
@@ -111,11 +115,6 @@
 
 ---
 
-## 👀 Profile Views  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JayasinghePS&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />  
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
@@ -154,5 +153,5 @@
 ###
 ---
 <p align="center">
-  💡 *"First, solve the problem. Then, write the code... and maybe refactor it a week later."*  
+  💡 First, solve the problem. Then, write the code... and maybe refactor it a week later.
 </p>
