@@ -35,6 +35,7 @@
 </div>
 ---
 
+<div>
 ## 🛠 Tech Stack  
 
 **Languages:**  
@@ -81,7 +82,7 @@
 ![Agile](https://img.shields.io/badge/Agile-FF4500?logoColor=white)  
 ![SOLID](https://img.shields.io/badge/SOLID-4B0082?logoColor=white)  
 ![Debugging](https://img.shields.io/badge/Debugging-FFD700?logoColor=black)  
-
+</div>
 ---
 
 ## 📊 GitHub Stats & Streak  
