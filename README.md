@@ -129,9 +129,9 @@
 
 
   ## 🚀 Tech Stack  
-<!-- <div align="center" px-2> -->
+<div align="center">
   
-  #### 🖥️ Languages  
+  ### 🖥️ Languages  
   <p align="center">
     <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" style="height:30px;" hspace="1" />
     <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" style="height:30px;" hspace="1"/>
@@ -145,7 +145,7 @@
   </p>
 &nbsp;
 
-  #### 🎨 Frontend  
+  ### 🎨 Frontend  
   <p align="center">
     <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" style="height:30px;" hspace="1"/>
     <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" style="height:30px;" hspace="1"/>
@@ -155,7 +155,7 @@
   </p>
 &nbsp;
 
-  #### ⚙️ Backend & AI  
+  ### ⚙️ Backend & AI  
   <p align="center">
     <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" style="height:30px;" hspace="1"/>
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white" style="height:30px;" hspace="1"/>
@@ -165,7 +165,7 @@
   </p>
 &nbsp;
 
-  #### 🛠️ DevOps & Tools  
+  ### 🛠️ DevOps & Tools  
   <p align="center">
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" style="height:30px;" hspace="1"/>
     <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?logo=gitlab&logoColor=white" style="height:30px;" hspace="1"/>
@@ -176,7 +176,7 @@
   </p>
   &nbsp;
 
-  #### 🗄️ Databases  
+  ### 🗄️ Databases  
   <p align="center">
     <img src="https://img.shields.io/badge/MS%20SQL-CC2927?logo=microsoftsqlserver&logoColor=white" style="height:30px;" hspace="1"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" style="height:30px;" hspace="1"/>
