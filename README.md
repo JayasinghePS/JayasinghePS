@@ -1,6 +1,9 @@
 <!-- 🌌 Cover Banner -->
 <p align="center">
-  <img src="assets/banner/Github-Banner.png" alt="GitHub Banner" width="100%" />
+  <img src="assets/banner/github-header-banner.png" alt="GitHub Banner" width="100%" />
+</p>
+<p align="center">
+  🎓 Software Engineering undergraduate at the University of Moratuwa | 💻 Aspiring Software Engineer | 🤖 Passionate about AI and Web Development
 </p>
 
 
@@ -10,19 +13,19 @@
 
 <div align="center">
   
-### 📬 Contact Me 
+#### 📬 Contact Me 
 <p align="center">
   <a href="https://linkedin.com/in/prageeth-jayasinghe" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
+    <img src="https://img.icons8.com/fluency/32/000000/linkedin.png"/>
   </a>
   <a href="mailto:you@example.com">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
+    <img src="https://img.icons8.com/fluency/32/000000/gmail-new.png"/>
   </a>
   <a href="https://facebook.com/yourprofile" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/facebook.png"/>
+    <img src="https://img.icons8.com/fluency/32/000000/facebook.png"/>
   </a>
   <a href="https://instagram.com/yourprofile" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
+    <img src="https://img.icons8.com/fluency/32/000000/instagram-new.png"/>
   </a>
 </p>
 </div>
