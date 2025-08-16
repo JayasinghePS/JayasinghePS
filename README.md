@@ -143,7 +143,7 @@
     <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white" style="height:30px;" hspace="1"/>
     <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" style="height:30px;" hspace="1"/>
   </p>
-&nbsp;
+
 
   ### 🎨 Frontend  
   <p align="center">
@@ -153,7 +153,7 @@
     <img src="https://img.shields.io/badge/Material%20UI-0081CB?logo=mui&logoColor=white" style="height:30px;" hspace="1"/>
     <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white" style="height:30px;" hspace="1"/>
   </p>
-&nbsp;
+
 
   ### ⚙️ Backend & AI  
   <p align="center">
@@ -163,7 +163,7 @@
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" style="height:30px;" hspace="1"/>
     <img src="https://img.shields.io/badge/LangChain-12100E?logo=chainlink&logoColor=white" style="height:30px;" hspace="1"/>
   </p>
-&nbsp;
+
 
   ### 🛠️ DevOps & Tools  
   <p align="center">
@@ -174,14 +174,14 @@
     <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" style="height:30px;" hspace="1"/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" style="height:30px;" hspace="1"/>
   </p>
-  &nbsp;
+
 
   ### 🗄️ Databases  
   <p align="center">
     <img src="https://img.shields.io/badge/MS%20SQL-CC2927?logo=microsoftsqlserver&logoColor=white" style="height:30px;" hspace="1"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" style="height:30px;" hspace="1"/>
   </p>
-  &nbsp;
+
 
 </div>
 
