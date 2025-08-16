@@ -4,12 +4,25 @@
 </p>
 
 <!-- 🌐 Social Links -->
+
+<div align="center">
+  
+### 📬 Contact Me 
 <p align="center">
-  <a href="https://linkedin.com/in/prageeth-jayasinghe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://facebook.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/prageeth-jayasinghe" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
+  </a>
+  <a href="mailto:you@example.com">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
+  </a>
+  <a href="https://facebook.com/yourprofile" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/facebook.png"/>
+  </a>
+  <a href="https://instagram.com/yourprofile" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
+  </a>
 </p>
+</div>
 
 ---
 
@@ -110,7 +123,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL" />
 </div>
-
+&nbsp;
 ### 📌 Others
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="Figma" />
@@ -219,6 +232,8 @@
 </p>
 
 ---
+
+&nbsp;
 
 ###
 <picture>
