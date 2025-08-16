@@ -48,7 +48,7 @@
 ## ✨ About Me  
 <div>
 <p>
-  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamlxOWlsYXV0dHNtMTN6Nzl2azJ1dXE4dWN3ejFqaG5lejRyY203bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/T7Qx28nEdo9NK/giphy.gif" width="350" height="200" hspace="30"/>
+  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamlxOWlsYXV0dHNtMTN6Nzl2azJ1dXE4dWN3ejFqaG5lejRyY203bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/T7Qx28nEdo9NK/giphy.gif" width="320" height="200" hspace="30"/>
 </p>
 
 - 💻 **Fullstack Developer** with expertise in frontend & backend  
