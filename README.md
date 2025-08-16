@@ -15,16 +15,16 @@
   
 #### 📬 Contact Me 
 <p align="center">
-  <a href="https://linkedin.com/in/prageeth-jayasinghe" target="_blank">
+  <a href="https://www.linkedin.com/in/prageeth-jayasinghe-432875215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://img.icons8.com/fluency/32/000000/linkedin.png"/>
   </a>
-  <a href="mailto:you@example.com">
+  <a href="prageethjayasingheofficial@gmail.com">
     <img src="https://img.icons8.com/fluency/32/000000/gmail-new.png"/>
   </a>
-  <a href="https://facebook.com/yourprofile" target="_blank">
+  <a href="https://www.facebook.com/share/171FyXRvAR/?mibextid=wwXIfr" target="_blank">
     <img src="https://img.icons8.com/fluency/32/000000/facebook.png"/>
   </a>
-  <a href="https://instagram.com/yourprofile" target="_blank">
+  <a href="https://www.instagram.com/_.zhyxm._?igsh=MTA4aTR3NzQ1enF4NA%3D%3D&utm_source=qr" target="_blank">
     <img src="https://img.icons8.com/fluency/32/000000/instagram-new.png"/>
   </a>
 </p>
