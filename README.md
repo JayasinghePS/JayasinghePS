@@ -39,55 +39,148 @@
 </div>
 
 
-## 🛠 Tech Stack  
-<div>
-  
-**Languages:**  
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)  
-![XML](https://img.shields.io/badge/XML-005571?logo=xml&logoColor=white)  
-![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)  
+<!-- ## 🛠 Tech Stack
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)  
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
-![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?logo=mui&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white)  
-
-**Backend & AI:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
-![LangChain](https://img.shields.io/badge/LangChain-12100E?logoColor=white)  
-
-**DevOps & Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![BitBucket](https://img.shields.io/badge/BitBucket-0052CC?logo=bitbucket&logoColor=white)  
-![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?logo=gitlab&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)  
-
-**Databases:**  
-![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?logo=microsoftsqlserver&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-
-**Others:**  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)  
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-000000?logoColor=white)  
-![OOP](https://img.shields.io/badge/OOP-1E90FF?logoColor=white)  
-![Agile](https://img.shields.io/badge/Agile-FF4500?logoColor=white)  
-![SOLID](https://img.shields.io/badge/SOLID-4B0082?logoColor=white)  
-![Debugging](https://img.shields.io/badge/Debugging-FFD700?logoColor=black)  
+### 🚀 Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="C" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="Java" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS" />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=512&id=20909&format=png" height="60" alt="XML" />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=512&id=108784&format=png" height="60" alt="JSON" />
 </div>
----
+
+### 🎨 Frontend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="Angular" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="Bootstrap" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mui" height="60" alt="Material UI" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS" />
+</div>
+
+### ⚙️ Backend & AI
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="Spring Boot" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="PyTorch" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/LangChain-12100E?style=for-the-badge&logo=chainlink&logoColor=white" height="40" alt="LangChain" />
+</div>
+
+### 🛠 DevOps & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/512/bitbucket.png" height="60" alt="BitBucket" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="60" alt="GitLab" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="Postman" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="Vercel" />
+</div>
+
+### 🗄 Databases
+<div align="center">
+  <img src="https://img.icons8.com/color/512/microsoft-sql-server.png" height="60" alt="MS SQL" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL" />
+</div>
+
+### 📌 Others
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="Figma" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/DSA-000000?style=for-the-badge&logoColor=white" height="40" alt="DSA" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/OOP-1E90FF?style=for-the-badge&logoColor=white" height="40" alt="OOP" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Agile-FF4500?style=for-the-badge&logoColor=white" height="40" alt="Agile" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/SOLID-4B0082?style=for-the-badge&logoColor=white" height="40" alt="SOLID" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Debugging-FFD700?style=for-the-badge&logoColor=black" height="60" alt="Debugging" />
+</div>
+-->
+
+
+  ## 🚀 Tech Stack  
+<div align="center">
+  
+  #### 🖥️ Languages  
+  <p align="center">
+    <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" style="height:30px;" hspace="6" />
+    <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" style="height:30px;" hspace="6"/>
+    <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" style="height:30px;" hspace="6"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" style="height:30px;" hspace="6"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" style="height:30px;" hspace="6"/>
+    <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" style="height:30px;" hspace="6"/>
+    <img src="https://img.shields.io/badge/XML-005571?logo=xml&logoColor=white" style="height:30px;" hspace="6"/>
+    <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white" style="height:30px;" hspace="6"/>
+    <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" style="height:30px;" hspace="6"/>
+  </p>
+
+  #### 🎨 Frontend  
+  <p align="center">
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" style="height:30px;" hspace="6"/>
+    <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" style="height:30px;" hspace="6"/>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" style="height:30px;" hspace="6"/>
+    <img src="https://img.shields.io/badge/Material%20UI-0081CB?logo=mui&logoColor=white" style="height:30px;" hspace="6"/>
+    <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white" style="height:30px;" hspace="6"/>
+  </p>
+
+  #### ⚙️ Backend & AI  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" style="height:30px;" hspace="6"/>
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white" style="height:30px;" hspace="6"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" style="height:30px;" hspace="6"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" style="height:30px;" hspace="6"/>
+    <img src="https://img.shields.io/badge/LangChain-12100E?logo=chainlink&logoColor=white" style="height:30px;" hspace="6"/>
+  </p>
+
+  #### 🛠️ DevOps & Tools  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" style="height:30px;" hspace="6"/>
+    <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?logo=gitlab&logoColor=white" style="height:30px;" hspace="6"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" style="height:30px;" hspace="6"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" style="height:30px;" hspace="6"/>
+    <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" style="height:30px;" hspace="6"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" style="height:30px;" hspace="6"/>
+  </p>
+
+  #### 🗄️ Databases  
+  <p align="center">
+    <img src="https://img.shields.io/badge/MS%20SQL-CC2927?logo=microsoftsqlserver&logoColor=white" style="height:30px;" hspace="6"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" style="height:30px;" hspace="6"/>
+  </p>
+
+</div>
+
+
+
 
 ## 📊 GitHub Stats & Streak  
 <p align="center">
@@ -113,35 +206,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=JayasinghePS&theme=tokyonight&margin-w=10&margin-h=10&row=1&column=7" />
 </p>
 
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
 
 ###
 <picture>
