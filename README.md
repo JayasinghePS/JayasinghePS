@@ -27,7 +27,7 @@
 ## ✨ About Me  
 <div>
 <p>
-  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200" />
+  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bjJseG5zZzBsOHViZzB0OWkxdTIxZThlemdraWNvZGNpNThxMzdkMyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/fTn01fiFdTd5pL60ln/giphy.gif" width="300" height="200" />
 </p>
 
 - 💻 **Fullstack Developer** with expertise in frontend & backend  
@@ -128,7 +128,7 @@
 
 
   ## 🚀 Tech Stack  
-<div align="center">
+<div align="center" px-2>
   
   #### 🖥️ Languages  
   <p align="center">
