@@ -27,7 +27,7 @@
 ## ✨ About Me  
 <div>
 <p>
-  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bjJseG5zZzBsOHViZzB0OWkxdTIxZThlemdraWNvZGNpNThxMzdkMyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/fTn01fiFdTd5pL60ln/giphy.gif" width="300" height="200" />
+  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29tZmFsd3Bsa25neGkzMHA4czl6YjNzbmtvbWg3aTdxNjZma2tlYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dISk854tQqGKHFm88e/giphy.gif" width="330" height="250" hspace="50"/>
 </p>
 
 - 💻 **Fullstack Developer** with expertise in frontend & backend  
@@ -35,7 +35,8 @@
 - 🤖 Built a **Transformer-based AI project** (because why not?)  
 - ⚙️ Loves **problem-solving** & **design patterns**  
 - 🚀 Always exploring **new tech** & building cool things  
-- ⚡ Fun fact: I sometimes write cleaner code at 2 AM than at 2 PM  
+- ⚡ Fun fact: I sometimes write cleaner code at 2 AM than at 2 PM
+
 </div>
 
 
