@@ -1,7 +1,10 @@
 <!-- 🌌 Cover Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/zA7L4sC.png" alt="GitHub Banner" width="100%" />
+  <img src="assets/banner/Github-Banner.png" alt="GitHub Banner" width="100%" />
 </p>
+
+
+&nbsp;
 
 <!-- 🌐 Social Links -->
 
@@ -231,9 +234,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=JayasinghePS&theme=tokyonight&margin-w=10&margin-h=10&row=1&column=7" />
 </p>
 
----
-
 &nbsp;
+
+---
 
 ###
 <picture>
