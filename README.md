@@ -133,85 +133,92 @@
   
   ### 🖥️ Languages  
   <p align="center">
-    <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" style="height:30px;" hspace="1" />
-    <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" style="height:30px;" hspace="1"/>
-    <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" style="height:30px;" hspace="1"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" style="height:30px;" hspace="1"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" style="height:30px;" hspace="1"/>
-    <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" style="height:30px;" hspace="1"/>
-    <img src="https://img.shields.io/badge/XML-005571?logo=xml&logoColor=white" style="height:30px;" hspace="1"/>
-    <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white" style="height:30px;" hspace="1"/>
-    <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" style="height:30px;" hspace="1"/>
+    <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" style="height:35px;" hspace="1" />
+    <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" style="height:35px;" hspace="1"/>
+    <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" style="height:35px;" hspace="1"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" style="height:35px;" hspace="1"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" style="height:35px;" hspace="1"/>
+    <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" style="height:35px;" hspace="1"/>
+    <img src="https://img.shields.io/badge/XML-005571?logo=xml&logoColor=white" style="height:35px;" hspace="1"/>
+    <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white" style="height:35px;" hspace="1"/>
+    <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" style="height:35px;" hspace="1"/>
   </p>
 
 
   ### 🎨 Frontend  
   <p align="center">
-    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" style="height:30px;" hspace="1"/>
-    <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" style="height:30px;" hspace="1"/>
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" style="height:30px;" hspace="1"/>
-    <img src="https://img.shields.io/badge/Material%20UI-0081CB?logo=mui&logoColor=white" style="height:30px;" hspace="1"/>
-    <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white" style="height:30px;" hspace="1"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" style="height:35px;" hspace="1"/>
+    <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" style="height:35px;" hspace="1"/>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" style="height:35px;" hspace="1"/>
+    <img src="https://img.shields.io/badge/Material%20UI-0081CB?logo=mui&logoColor=white" style="height:35px;" hspace="1"/>
+    <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white" style="height:35px;" hspace="1"/>
   </p>
 
 
   ### ⚙️ Backend & AI  
   <p align="center">
-    <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" style="height:30px;" hspace="1"/>
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white" style="height:30px;" hspace="1"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" style="height:30px;" hspace="1"/>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" style="height:30px;" hspace="1"/>
-    <img src="https://img.shields.io/badge/LangChain-12100E?logo=chainlink&logoColor=white" style="height:30px;" hspace="1"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" style="height:35px;" hspace="1"/>
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white" style="height:35px;" hspace="1"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" style="height:35px;" hspace="1"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" style="height:35px;" hspace="1"/>
+    <img src="https://img.shields.io/badge/LangChain-12100E?logo=chainlink&logoColor=white" style="height:35px;" hspace="1"/>
   </p>
 
 
   ### 🛠️ DevOps & Tools  
   <p align="center">
-    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" style="height:30px;" hspace="1"/>
-    <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?logo=gitlab&logoColor=white" style="height:30px;" hspace="1"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" style="height:30px;" hspace="1"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" style="height:30px;" hspace="1"/>
-    <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" style="height:30px;" hspace="1"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" style="height:30px;" hspace="1"/>
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" style="height:35px;" hspace="1"/>
+    <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?logo=gitlab&logoColor=white" style="height:35px;" hspace="1"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" style="height:35px;" hspace="1"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" style="height:35px;" hspace="1"/>
+    <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" style="height:35px;" hspace="1"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" style="height:35px;" hspace="1"/>
   </p>
 
 
   ### 🗄️ Databases  
   <p align="center">
-    <img src="https://img.shields.io/badge/MS%20SQL-CC2927?logo=microsoftsqlserver&logoColor=white" style="height:30px;" hspace="1"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" style="height:30px;" hspace="1"/>
+    <img src="https://img.shields.io/badge/MS%20SQL-CC2927?logo=microsoftsqlserver&logoColor=white" style="height:35px;" hspace="1"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" style="height:35px;" hspace="1"/>
   </p>
 
 
 </div>
 
 
-
+---
 
 ## 📊 GitHub Stats & Streak  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JayasinghePS&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayasinghePS&layout=compact&theme=tokyonight" height="165"/>
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=JayasinghePS&show_icons=true&theme=tokyonight&hide_border=true" width="45%" height="300"/>
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=JayasinghePS&theme=tokyonight&hide_border=true" width="50%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayasinghePS&theme=tokyonight" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayasinghePS&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
+  <!-- Contributor Stats -->
+  <img src="https://github-contributor-stats.vercel.app/api?username=JayasinghePS&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="50%"/>
 </p>
 
----
+
+
 
 ## 📈 Activity Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JayasinghePS&theme=tokyo-night" />
 </p>
 
----
 
 ## 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JayasinghePS&theme=tokyonight&margin-w=10&margin-h=10&row=1&column=7" />
 </p>
 
+---
 
 ###
 <picture>
